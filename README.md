@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giang Huỳnh</h1>
+<h1 align="center">Hi 👋, I'm Phạm Huỳnh Giang</h1>
 <h3 align="center">A passionate DevOps Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
@@ -54,9 +54,9 @@
 
 ## 📫 Contact
 
-- 🌐 [gianghuynh.dev](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/gianghuynh)
-- 📬 Email: gianghuynh.dev@gmail.com
+- 🌐 [gianghuynh.dev](https://github.com/giangph-itsquad)
+- 💼 [LinkedIn](https://www.linkedin.com/in/giangph61/)
+- 📬 Email: giangph.itsquad@gmail.com
 
 ---
 
